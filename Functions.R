@@ -2,6 +2,7 @@
 # Functions for Generalized Study of Quarantine vs Symptom Monitoring
 # Corey Peak
 # Version 1.0
+
 # August 19, 2015
 # Development Branch
 
